@@ -69,5 +69,4 @@ class Commission {
         System.out.println("Commission: " + calculateCommission());
     }
 
-    
 }
